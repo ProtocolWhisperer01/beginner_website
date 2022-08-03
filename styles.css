@@ -1,0 +1,44 @@
+body {
+	background-image: url(/home/olapapi/Downloads/benz.jpg);
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+	
+}
+
+h3 {
+	border: 2px solid red;
+	padding: 30px;
+	background-color: red;
+}
+
+p {
+	border: 2px solid red;
+	padding: 30px;
+	background-color: red;
+	
+}
+
+a:link {
+  color: green;
+  background-color: red;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
